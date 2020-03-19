@@ -1,7 +1,7 @@
-.digital p {
-  background-color: red;
+.digital p a {
+  font-weight: bold;
 }
 
-.analog p {
-  background-color: yellow;
+.analog p a {
+  font-style: italic;
 }
